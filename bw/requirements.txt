@@ -1,0 +1,6 @@
+websocket-client
+numpy
+pandas
+plotly
+seaborn
+matplotlib
