@@ -2,6 +2,7 @@
 |Exchange|Protocol|Type|Time Book|Time Trade|Used Time|
 |---|---|---|---|---|---|
 |Bitmart|WS|Updates|x|1 ms|Local|
+|Binance|WS|Updates|~1 sec (1 ms)|1 ms|Exchange|
 |Bit-Z|Unoffical WS|Updates|1 ms|1 sec (+)|Exchange|
 |BW|Unoffical WS|Updates|x|1 sec|Local|
 |Coinbene|Unoffical WS|Updates|1 ms|1 sec (+)|Exchange|
