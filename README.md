@@ -1,10 +1,14 @@
 
 |Exchange|Protocol|Type|Time Book|Time Trade|Used Time|
 |---|---|---|---|---|---|
-|Bitmart|WS|Updates|n/a|1 ms|Local|
+|Bitfinex|WS|-|-|-|-|
+|BitMart|WS|Updates|n/a|1 ms|Local|
+|Bitstamp|WS|-|-|-|-|
+|Bittrex|WS|-|-|-|-|
 |Binance|WS|Updates|~1 sec (1 ms)|1 ms|Exchange|
 |Bit-Z|Unoffical WS|Updates|1 ms|1 sec (+)|Exchange|
 |BW|Unoffical WS|Updates|n/a|1 sec|Local|
+|Coinbase|WS|-|-|-|-|
 |Coinbene|Unoffical WS|Updates|1 ms|1 sec (+)|Exchange|
 |Cointiger|Unoffical WS|Snapshots|1 ms|1 ms|Exchange|
 |HitBTC|WS|Updates|~100 ms (1 ms)|1 ms|Exchange|
